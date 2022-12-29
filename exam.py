@@ -1,5 +1,4 @@
-爬取公職王網站上考試資訊 (以錄取率為例)
-
+[爬取公職王網站上考試資訊 (以錄取率為例)]
 
 import pandas as pd
 # url = "https://www.public.com.tw/exam-civilservice/kp-quota#c"
