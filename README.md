@@ -3,7 +3,7 @@
 
 二、專案名:國考便利通
 
-三、影片說明:https://drive.google.com/drive/folders/1vGmAFPI7lN8M7AQC26eYcPHpkUp7yNl8
+三、簡報說明: https://drive.google.com/drive/folders/1DHQOn6rWzE-YL53KyW8FgguiQqvK-Hdq
 
 四、Github檔案:
 
